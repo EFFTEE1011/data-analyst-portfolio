@@ -15,4 +15,5 @@ I'm a results-driven **Data Analyst** with a passion for turning raw data into a
 ## 🚀 Featured Projects 
 | Project | Description | Tools & Skills |
 |---------|-------------|----------------|
-|💵 [Sales Trend Analysis]|
+|  Sales Trend Analysis 💵 |  Used excel to clean data set by renamed columns for clarity, Deleted unnecssary columns (eg.,'EASE-MENT') , Formatted dates and numerical values, removed rows with 0 or missing values, removed duplicates, added calculated field: 'Price per Sqft' |  Microsoft Excel, Pivot Tables, Bar Chart |
+
