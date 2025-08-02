@@ -21,8 +21,13 @@ Cleaned File: [NYC Rolling Propery Sales Cleaned (Github)](https://github.com/EF
 
 ## Analysis
 
+![App Screeshot](https://github.com/EFFTEE1011/data-analyst-portfolio/blob/main/SALESBASEDONBOROUGHGRAPH.jpg)
+                          
+                           Sales all over New York City Based on Borough
+                                          
 ![App Screenshot](https://github.com/EFFTEE1011/data-analyst-portfolio/blob/main/SALEPRICEBYTOWN.jpg)
-                                This shows the amount of sales all over new york city based on town
+                           
+                            Sales all over New York City Based on Town
 
 
 
