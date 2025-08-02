@@ -19,5 +19,11 @@ Source: [NYC Rolling Property Sales (Kaggle)](https://www.kaggle.com/datasets/ne
 
 Cleaned File: [NYC Rolling Propery Sales Cleaned (Github)](https://github.com/EFFTEE1011/data-analyst-portfolio/blob/main/nyc-rolling-sales-cleaned.xlsx)
 
+## Analysis
+
+![App Screenshot](https://github.com/EFFTEE1011/data-analyst-portfolio/blob/main/SALEPRICEBYTOWN.jpg)
+                                This shows the amount of sales all over new york city based on town
+
+
 
 
